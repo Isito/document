@@ -1,0 +1,12 @@
+body {
+    background: url(images/seryi3.jpg) no-repeat;
+    background-size: 100%;
+   }
+   .stolb{
+   width: 258px;
+   float:left;
+   margin-right:20px;
+   }
+   #topol{
+  color:#404040;
+  }
